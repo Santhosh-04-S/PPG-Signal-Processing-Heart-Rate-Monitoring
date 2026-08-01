@@ -243,9 +243,8 @@ University of Moratuwa
 Interests:
 
 * Biomedical Signal Processing
-* Sensor Development
 * Machine Learning Applications in Healthcare
-* Embedded Systems
+* Brain Computer Interface and Human Computer Interface
 
 ---
 
